@@ -27,7 +27,7 @@ This is my first Frontend Mentor Challenge.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [QR CODE COMPONENT - GITHUB PAGE]([httpm](https://bijiyiqi2017.github.io/QR-CODE-COMPONENT/))
+- Live Site URL: [QR CODE COMPONENT - GITHUB PAGE](https://bijiyiqi2017.github.io/QR-CODE-COMPONENT/)
 
 ## My process
 
