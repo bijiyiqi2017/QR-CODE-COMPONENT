@@ -21,12 +21,13 @@ This is my first Frontend Mentor Challenge.
 ### Screenshot
 
 ![Desktop Screenshot](desktopScreenshot.png)
+![Cellphone Screenshot](cellphoneScreenshot.png)
  
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR CODE COMPONENT - GITHUB PAGE]([httpm](https://bijiyiqi2017.github.io/QR-CODE-COMPONENT/))
 
 ## My process
 
