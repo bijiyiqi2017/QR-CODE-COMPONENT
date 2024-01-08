@@ -21,7 +21,7 @@ This is my first Frontend Mentor Challenge.
 ### Screenshot
 
 ![Desktop Screenshot](desktopScreenshot.png)
-![Cellphone Screenshoot](cellphoneScreenshot.png)
+ 
 
 ### Links
 
