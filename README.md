@@ -26,7 +26,7 @@ This is my first Frontend Mentor Challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR CODE COMPONENT - Frontend Mentor](https://www.frontendmentor.io/solutions/my-1st-attempt-creating-a-qr-code-component-using-flexbox-u_uMhROcuJ)
 - Live Site URL: [QR CODE COMPONENT - GITHUB PAGE](https://bijiyiqi2017.github.io/QR-CODE-COMPONENT/)
 
 ## My process
