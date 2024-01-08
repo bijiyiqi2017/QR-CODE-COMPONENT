@@ -20,8 +20,8 @@ This is my first Frontend Mentor Challenge.
 
 ### Screenshot
 
-![Desktop Screenshot](./images/desktopScreenshot.png)
-![Cellphone Screenshoot](./images/cellphoneScreenshot.png)
+![Desktop Screenshot](desktopScreenshot.png)
+![Cellphone Screenshoot](cellphoneScreenshot.png)
 
 ### Links
 
@@ -90,6 +90,5 @@ Just a few things I want to develop more understanding deeply.
 
 ## Author
 
-- GitHub - [bijiyiqi2017](https://github.com/bijiyiqi2017/bijiyiqi2017-bijiyiqi2017.github.io.git)
 - Frontend Mentor - [@bijiyiqi2017](https://www.frontendmentor.io/profile/bijiyiqi2017)
 - Twitter/X - [@DayDayUp22](https://twitter.com/DayDayUp22)
